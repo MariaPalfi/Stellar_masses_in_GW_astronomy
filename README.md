@@ -6,7 +6,8 @@ Codes for the paper *Stellar mass estimations and their utilization in gravitati
 ### Preparations and stellar mass estimations:
 1. *Missing_error_estimation_rel.ipynb*: estimating the errors of missing magnitudes
 2. *Stellar_mass_estimation.ipynb*: stellar mass estimations based on IR bands
-3. *oursample.ipynb*: creating sample for the analysis
+3. *Stellar_masses_from_GAMA.ipynb*: SQL queries to download GAMA stellar masses
+4. *oursample.ipynb*: creating sample for the analysis
 
 ### Comparision:
 1. *sys_err.ipynb*: systematic uncertainty based on the different GAMA stellar masses
