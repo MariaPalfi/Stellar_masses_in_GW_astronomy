@@ -21,7 +21,7 @@ Codes for the paper *Stellar mass estimations and their utilization in gravitati
 3. *Possible_hosts_lalinference.ipynb*: finding galaxies inside the localisation volume of GW170817 using preliminary LALInference skymap
 4. *GW170817_rank_volume_lalinference.ipynb*: ranking the host galaxy of GW170817 using initial preliminary LALInference skymap
 
-### Simulation
+### Simulation:
 1. *suitable_format.ipynb*: preparing mock galaxy catalogue
 2. *injections_with_SNR_for_sm.ipynb*: choosing hosts from the mock galaxy catalogue, injecting events
 3. *injection_writer.py*: saving injection parameters to prior files, creating injections with *bilby_pipe* on the cluster (run *create_inj.sh*)
