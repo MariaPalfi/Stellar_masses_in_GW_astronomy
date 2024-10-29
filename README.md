@@ -1,7 +1,7 @@
 # Stellar_masses_in_GW_astronomy
 Codes for the paper *Stellar mass estimations and their utilization in gravitational-wave astronomy*
 
-**Content of the files and order of running them:**
+## Content of the files and order of running them:
 
 ### Preparations and stellar mass estimations:
 1. *Missing_error_estimation_rel.ipynb*: estimating the errors of missing magnitudes
