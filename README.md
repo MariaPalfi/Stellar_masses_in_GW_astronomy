@@ -17,10 +17,11 @@ Codes for the paper *Utilizing Stellar Mass Estimates to Identify Gravitational 
 5. *Calibrating_fits.ipynb*: shifting the linear relations
 
 ### Ranking host galaxy of GW170817:
-1. *Possible_hosts_bayestar.ipynb*: finding galaxies inside the localisation volume of GW170817 using initial BAYESTAR skymap
-2. *GW170817_rank_volume_bayestar.ipynb*: ranking the host galaxy of GW170817 using initial BAYESTAR skymap
-3. *Possible_hosts_lalinference.ipynb*: finding galaxies inside the localisation volume of GW170817 using preliminary LALInference skymap
-4. *GW170817_rank_volume_lalinference.ipynb*: ranking the host galaxy of GW170817 using initial preliminary LALInference skymap
+1. *interpolate_Artale*: interpolating host galaxy probabilities for Artale's ranking approach
+2. *Possible_hosts_bayestar.ipynb*: finding galaxies inside the localisation volume of GW170817 using initial BAYESTAR skymap
+3. *GW170817_rank_volume_bayestar.ipynb*: ranking the host galaxy of GW170817 using initial BAYESTAR skymap
+4. *Possible_hosts_lalinference.ipynb*: finding galaxies inside the localisation volume of GW170817 using preliminary LALInference skymap
+5. *GW170817_rank_volume_lalinference.ipynb*: ranking the host galaxy of GW170817 using initial preliminary LALInference skymap
 
 ### Simulation:
 1. *suitable_format.ipynb*: preparing mock galaxy catalogue
