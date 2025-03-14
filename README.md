@@ -11,7 +11,7 @@ Codes for the paper *Utilizing Stellar Mass Estimates to Identify Gravitational 
 
 ### Comparision:
 1. *sys_err.ipynb*: systematic uncertainty based on the different GAMA stellar masses
-2. *Compare_gama_sm_small.ipynb*: comparing three types of GAMA stellar mass values in our sample
+2. *Compare_gama_sm.ipynb*: comparing three types of GAMA stellar mass values in our sample
 3. *Pearson_corr_sm.ipynb*: Pearson correlation matrix of the different estimations of stellar masses with Monte Carlo
 4. *Compare_plots.ipynb*: comparison plots with contours
 5. *Calibrating_fits.ipynb*: shifting the linear relations
