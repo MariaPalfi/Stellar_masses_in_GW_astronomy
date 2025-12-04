@@ -1,5 +1,5 @@
 # Stellar_masses_in_GW_astronomy
-Codes for the paper *Utilizing Stellar Mass Estimates to Identify Gravitational Wave Host Galaxies*
+Codes for the paper [*Utilizing Stellar Mass Estimates to Identify Gravitational Wave Host Galaxies*](https://academic.oup.com/mnras/article/539/3/1879/8106602#513609005).
 
 ## Content of the files and order of running them:
 
